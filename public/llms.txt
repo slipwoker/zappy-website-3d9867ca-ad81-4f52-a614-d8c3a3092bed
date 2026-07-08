@@ -48,7 +48,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: shayblan41@gmail.com
+- Phone: 972/0544989363
+- Phone (tel): tel:9720544989363
 
 ### Contact form
 - URL: https://example.com/contact
