@@ -1,0 +1,92 @@
+# שי בלאן — Generative Engine Optimization Map
+
+> Shai Blan is an independent online tutor who teaches Arabic and Architecture via Zoom. His personal website serves as a marketing and booking hub, designed to attract new students and make it effortless to schedule a Zoom session with him — with a clear weekly availability calendar and a one-click booking experience. The site is focused on converting visitors into booked students quickly and smoothly.
+
+---
+
+## Pages
+
+### בית
+https://-3d9867ca.zappy5.app
+שי בלאן מזמין אתכם לשיעורי ערבית ואדריכלות מותאמים אישית בזום. גלו לוח זמינות שבועי, הזמינו בלחיצה אחת והתחילו ללמוד עוד היום.
+
+### שיעורים
+https://-3d9867ca.zappy5.app/lessons
+השיעורים של שי בלאן משלבים ערבית מדוברת ועקרונות אדריכלות בזום. מתודולוגיה ייחודית, תרגול מעשי והתאמה אישית לכל תלמיד. הצטרפו עכשיו.
+
+### זמינות
+https://-3d9867ca.zappy5.app/availability
+בדקו את לוח הזמינות המעודכן של שי בלאן ובחרו מועד שנוח לכם לשיעור ערבית או אדריכלות בזום. תהליך ההזמנה פשוט, מהיר וללא התחייבות.
+
+### אודות שי
+https://-3d9867ca.zappy5.app/about
+הכירו את שי בלאן, מורה פרטי לערבית ואדריכלות בזום. גישה אישית, ניסיון עשיר ואהבה אמיתית להוראה שמביאה תלמידים לתוצאות. קראו עוד על הדרך שלי.
+
+### צור קשר
+https://-3d9867ca.zappy5.app/contact
+רוצים להתחיל ללמוד ערבית או אדריכלות? צרו קשר עם שי בלאן עוד היום. אני זמין לכל שאלה לגבי השיעורים, הזמינות או תהליך ההזמנה בזום.
+
+### תודה רבה - שי בלאן
+https://-3d9867ca.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה שלך התקבלה בהצלחה אצל שי בלאן ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3d9867ca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3d9867ca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3d9867ca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3d9867ca.zappy5.app/contact
+- Endpoint: https://-3d9867ca.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שי בלאן
+Shai Blan is an independent online tutor who teaches Arabic and Architecture via Zoom. His personal website serves as a marketing and booking hub, designed to attract new students and make it effortless to schedule a Zoom session with him — with a clear weekly availability calendar and a one-click booking experience. The site is focused on converting visitors into booked students quickly and smoothly.
+
+## Services/Products
+- שיעורי ערבית ב-Zoom
+- שיעורי אדריכלות ב-Zoom
+- קביעת מפגשים אונליין
+
+## Target Audience
+- אנשים המעוניינים ללמוד ערבית או אדריכלות דרך Zoom
+- סטודנטים לערבית ב-Zoom
+- סטודנטים לאדריכלות ב-Zoom
+- מקצוענים הזקוקים לערבית
+
+## Industry
+Online Education / Private Tutoring
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3d9867ca.zappy5.app/sitemap.xml
+- Robots: https://-3d9867ca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3d9867ca.zappy5.app/llms-full.txt
